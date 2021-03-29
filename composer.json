@@ -1,0 +1,20 @@
+{
+    "name": "ltvktv123/nguyenvanqua",
+    "description": "create text",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "nguyenvanqua",
+            "email": "nguyenqua515151@gmail.com",
+            "homepage": "http://web2.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "\nvq\backend2":"/"
+        }
+    },
+    "minimum-stablity": "dev"
+}
